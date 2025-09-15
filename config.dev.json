@@ -40,11 +40,11 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
-			"apiKey": ""
+          "email": "yourmail@gmail.com",
+          "clientId": "1234567890-abc123def456.apps.googleusercontent.com",
+          "clientSecret": "XyZabc123SecretKey",
+          "refreshToken": "1//04exampleRefreshToken",
+          "apiKey": "AIzaSyExampleApiKey"
 		},
 		"gRecaptcha": {
 			"siteKey": "",
