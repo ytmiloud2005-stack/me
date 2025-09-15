@@ -44,7 +44,7 @@
           "clientId": "1234567890-abc123def456.apps.googleusercontent.com",
           "clientSecret": "XyZabc123SecretKey",
           "refreshToken": "4/0AVGzR1DeLznsly01t8jf-34Fy3Ich9xRahj2wRqDkaFVlguQrB1ACkJZRnZ7-vjQmsrqeg",
-          "apiKey": "AIzaSyExampleApiKey"
+          "apiKey": ""
 		},
 		"gRecaptcha": {
 			"siteKey": "",
